@@ -36,9 +36,7 @@ So on.
 */
 
 #include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
+
 
 //Function to print the numbers for each row of the output.
 void printNum(int num, int n)
